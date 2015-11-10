@@ -40,7 +40,7 @@
 	<br>
 	</main>
 	<footer>
-	<p>Desgourdes Vivien 8 rue du croc 36120 Ambrault Tel:06 70 09 48 96</p>
+	<p>Desgourdes Vivien  Tel:06 .. .. .. ..</p>
 	</footer>
 	
     </body>
